@@ -12,7 +12,7 @@ package com.fuadhamidan.moviedb.util;
 public class Cons {
     public static final boolean ENABLE_TIMBER = true;
 
-    public static final String MOVIE_DB_API_KEY = "a2b03e3098577ad83eecff6d327b214b";
+    public static final String MOVIE_DB_API_KEY = "YOUR_API_KEY";
 
     public static final String POSTER_SIZE_w92 = "w92";
     public static final String POSTER_SIZE_w154 = "w154";
