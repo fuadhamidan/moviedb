@@ -1,0 +1,11 @@
+Specification Movie Db:
+- Project structure by feature
+- Architecture MVVM
+- RxAndroid
+- Butterknife
+- Timber
+- Retrofit
+- Glide
+- Data Binding
+- REALM
+- Gson
