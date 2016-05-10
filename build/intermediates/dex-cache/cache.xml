@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/fuadhamidan/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.1/b494968f6050d494de55dc3ce005e59c7eb40012/rxjava-1.1.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b494968f6050d494de55dc3ce005e59c7eb40012">
+        <dex dex="/Users/fuadhamidan/Development/android-project/MovieDB/app/build/intermediates/transforms/dex/debug/folders/1000/10/rxjava-1.1.1_8996cebb6f4f532944f312630cbf2938cd63ac42/classes.dex" />
+    </item>
+    <item
+        jar="/Users/fuadhamidan/.gradle/caches/modules-2/files-2.1/io.realm/realm-annotations/0.90.0/6534c30a6ff9b2762df92ebb549f809832066177/realm-annotations-0.90.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6534c30a6ff9b2762df92ebb549f809832066177">
+        <dex dex="/Users/fuadhamidan/Development/android-project/MovieDB/app/build/intermediates/transforms/dex/debug/folders/1000/10/realm-annotations-0.90.0_85e5cc5f0dbbe5b67ba333134b8fce365cac61c6/classes.dex" />
+    </item>
+    <item
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/com/android/databinding/baseLibrary/2.1.0/baseLibrary-2.1.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a7aeef173c4e5b104ec04f146f8e8f9debde1c5e">
+        <dex dex="/Users/fuadhamidan/Development/android-project/MovieDB/app/build/intermediates/transforms/dex/debug/folders/1000/10/baseLibrary-2.1.0_086fc8c6c72e9ce7aeea762b1cd164174a8fdef1/classes.dex" />
+    </item>
+    <item
+        jar="/Users/fuadhamidan/Development/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Users/fuadhamidan/Development/android-project/MovieDB/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_1e4b61800c5d57db37947a58c236b0cf8a10fd94/classes.dex" />
+    </item>
+    <item
+        jar="/Users/fuadhamidan/Development/android-project/MovieDB/app/build/intermediates/exploded-aar/com.android.databinding/adapters/1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3cae403175958af8baa00bed0bd6e04187d69415">
+        <dex dex="/Users/fuadhamidan/Development/android-project/MovieDB/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.databinding-adapters-1.1_dc1c1a68d440c6a7c73015759fc404fda037090e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/fuadhamidan/Development/android-project/MovieDB/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/Users/fuadhamidan/Development/android-project/MovieDB/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.3.0_2d66c4d82d0507f2292655bfb90541c9f64e4517/classes.dex" />
+    </item>
+    <item
+        jar="/Users/fuadhamidan/Development/android-project/MovieDB/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/Users/fuadhamidan/Development/android-project/MovieDB/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.3.0_02e9b913f2420e23821b7a9b9eec703ce25abdcc/classes.dex" />
+    </item>
+    <item
+        jar="/Users/fuadhamidan/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.0.0/49eb3ad545e7701234e4dd83db8dc1344b577f23/converter-gson-2.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="49eb3ad545e7701234e4dd83db8dc1344b577f23">
+        <dex dex="/Users/fuadhamidan/Development/android-project/MovieDB/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.0.0_ac921235d8c6e22fb2450ca5b8925d04f933788b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/fuadhamidan/Development/android-project/MovieDB/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="/Users/fuadhamidan/Development/android-project/MovieDB/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.3.0_b91ffc6e55efda72c142c9a53877f89046e81bd6/classes.dex" />
+    </item>
+    <item
+        jar="/Users/fuadhamidan/Development/android-project/MovieDB/app/build/intermediates/exploded-aar/com.android.databinding/library/1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d985cdf99de8a63824b52d8a8efc309f9e5fbf01">
+        <dex dex="/Users/fuadhamidan/Development/android-project/MovieDB/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.databinding-library-1.1_1415bedc862b7dd48ceb1f8075821443b47f3333/classes.dex" />
+    </item>
+    <item
+        jar="/Users/fuadhamidan/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/adapter-rxjava/2.0.0/bf61256d9868ea053e24d77669c55c80db375c15/adapter-rxjava-2.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="bf61256d9868ea053e24d77669c55c80db375c15">
+        <dex dex="/Users/fuadhamidan/Development/android-project/MovieDB/app/build/intermediates/transforms/dex/debug/folders/1000/10/adapter-rxjava-2.0.0_8e36193a4f98063fb27a018de4aab56d401ddddf/classes.dex" />
+    </item>
+    <item
+        jar="/Users/fuadhamidan/Development/android-project/MovieDB/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="/Users/fuadhamidan/Development/android-project/MovieDB/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.3.0_f97fc6f36e7bd8f8b6b11e3e133cb971bf692b72/classes.dex" />
+    </item>
+    <item
+        jar="/Users/fuadhamidan/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.2/f1bc476cc167b18e66c297df599b2377131a8947/gson-2.6.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="/Users/fuadhamidan/Development/android-project/MovieDB/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.6.2_5dc2347b2b5d0ae8465c84a459be0a3b06a6dd3d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/fuadhamidan/Development/android-project/MovieDB/app/build/intermediates/exploded-aar/io.realm/realm-android-library/0.90.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="edadd4550909a17936b2540be7489ba2944d83cf">
+        <dex dex="/Users/fuadhamidan/Development/android-project/MovieDB/app/build/intermediates/transforms/dex/debug/folders/1000/10/io.realm-realm-android-library-0.90.0_4d24f6adbf9531805a569937f74b0f4c63914100/classes.dex" />
+    </item>
+    <item
+        jar="/Users/fuadhamidan/Development/android-project/MovieDB/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/fuadhamidan/Development/android-project/MovieDB/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.3.0_4ca89c70f5f9e7905b31667f603af57910bb317b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/fuadhamidan/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="/Users/fuadhamidan/Development/android-project/MovieDB/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.2.0_4e0223e1dbe77375e2f3f8ff632f0d95ff68fd89/classes.dex" />
+    </item>
+    <item
+        jar="/Users/fuadhamidan/Development/android-project/MovieDB/app/build/intermediates/exploded-aar/com.getkeepsafe.relinker/relinker/1.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="264f0bc4c0680cfe7a60fea1f12a43f1ab48e7c8">
+        <dex dex="/Users/fuadhamidan/Development/android-project/MovieDB/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.getkeepsafe.relinker-relinker-1.2.1_6d61d269056c389160da743d3611fad3b9e89315/classes.dex" />
+    </item>
+    <item
+        jar="/Users/fuadhamidan/Development/android-project/MovieDB/app/build/intermediates/exploded-aar/io.reactivex/rxandroid/1.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d4c4b83de2f6412072d2a29b1b7a5b03edaad5ff">
+        <dex dex="/Users/fuadhamidan/Development/android-project/MovieDB/app/build/intermediates/transforms/dex/debug/folders/1000/10/io.reactivex-rxandroid-1.1.0_20e91dbabbe82101e6dd1ccc0867aae881318c61/classes.dex" />
+    </item>
+    <item
+        jar="/Users/fuadhamidan/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/fuadhamidan/Development/android-project/MovieDB/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.7.0_48f9ed5cfe0491e6e1158f54ae9d1bca8d112d1c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/fuadhamidan/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.0/5c06d197fb7fa875ad452f562e3310dd9949d066/retrofit-2.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5c06d197fb7fa875ad452f562e3310dd9949d066">
+        <dex dex="/Users/fuadhamidan/Development/android-project/MovieDB/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.0.0_ec142895b296deae11231aadd214ee969edd68ce/classes.dex" />
+    </item>
+    <item
+        jar="/Users/fuadhamidan/Development/android-project/MovieDB/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="82ce13fd19cdfde0e392f03c27edeba8d4333648">
+        <dex dex="/Users/fuadhamidan/Development/android-project/MovieDB/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-23.3.0_9a07df683eb2c4fe8d856da389538da7d7c64e85/classes.dex" />
+    </item>
+    <item
+        jar="/Users/fuadhamidan/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/7.0.1/d5d13ea991eab0252e3710e5df3d6a9d4b21d461/butterknife-7.0.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="/Users/fuadhamidan/Development/android-project/MovieDB/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-7.0.1_1dc03de04d96f0da9cfa226779e9a439a0777196/classes.dex" />
+    </item>
+    <item
+        jar="/Users/fuadhamidan/Development/android-project/MovieDB/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/fuadhamidan/Development/android-project/MovieDB/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_918aeac0508cefe90e238f74c5fe056487c57e29/classes.dex" />
+    </item>
+    <item
+        jar="/Users/fuadhamidan/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/fuadhamidan/Development/android-project/MovieDB/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_487e37d707e6b26c8e6f1dbb75c6e67c87a2f392/classes.dex" />
+    </item>
+    <item
+        jar="/Users/fuadhamidan/Development/android-project/MovieDB/app/build/intermediates/exploded-aar/com.jakewharton.timber/timber/4.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="630b29f983afc36ec2c99bc8b4cae38b328119b4">
+        <dex dex="/Users/fuadhamidan/Development/android-project/MovieDB/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.jakewharton.timber-timber-4.1.1_da6b287345e3cd20eeed5e80fba57bac78857e72/classes.dex" />
+    </item>
+    <item
+        jar="/Users/fuadhamidan/Development/android-project/MovieDB/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5ed92c2814a5e64def526ac5ab0a451e23716fb7">
+        <dex dex="/Users/fuadhamidan/Development/android-project/MovieDB/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_4e6a8320df68f574a4a22e59d57a75715d030fb2/classes.dex" />
+    </item>
+    <item
+        jar="/Users/fuadhamidan/Development/android-project/MovieDB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/Users/fuadhamidan/Development/android-project/MovieDB/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.3.0_05aa7a90e3f0995b28ffeab1aa1248311bfa39ec/classes.dex" />
+    </item>
+    <item
+        jar="/Users/fuadhamidan/Development/android-project/MovieDB/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9c304bce95f0bb5b5bd518e73a63728895fa8667">
+        <dex dex="/Users/fuadhamidan/Development/android-project/MovieDB/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_6d623460b12040b4ce221937ba8b376117b5d103/classes.dex" />
+    </item>
+
+</items>

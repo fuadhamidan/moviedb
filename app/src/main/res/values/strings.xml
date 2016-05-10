@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Movie DB</string>
+
+    <string name="action_popular">Popular</string>
+    <string name="action_top_rated">Top Rated</string>
+    <string name="action_favorites">Favorites</string>
+    <string name="action_share">Share</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="toolbar_title_favorites">Favorites Movies</string>
+    <string name="toolbar_title_popular">Popular Movies</string>
+    <string name="toolbar_title_top_rated">Top Rated Movies</string>
+
+    <string name="label_synopsys">Synopsys</string>
+    <string name="label_trailer">Trailers</string>
+    <string name="label_review">Reviews</string>
+
+    <string name="message_favorited">Favorited</string>
+    <string name="message_unfavorited">Unfavorited</string>
+    <string name="message_no_movie_favorites">No favorites movie</string>
+    <string name="message_there_is_no_review">There is no review</string>
+    <string name="message_there_is_no_trailer">There is no trailer</string>
+    <string name="message_no_network_connection">No network connection</string>
+    <string name="message_no_receiving_apps">Could not open trailer, No receiving apps installed.</string>
+
+</resources>

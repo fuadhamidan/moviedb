@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <data>
+
+        <variable
+            name="viewmodel"
+            type="com.fuadhamidan.moviedb.feature.movie_detail.ItemTrailerViewModel"/>
+    </data>
+
+    <RelativeLayout
+        android:id="@+id/itemTrailer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="?android:attr/selectableItemBackground"
+        android:clickable="true"
+        android:onClick="@{viewmodel.onTrailerClick}"
+        android:paddingBottom="@dimen/activity_margin"
+        android:paddingLeft="@dimen/activity_margin_small"
+        android:paddingRight="@dimen/activity_margin_small"
+        android:paddingTop="@dimen/activity_margin">
+
+        <android.support.v7.widget.CardView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:cardCornerRadius="4dp">
+
+            <ImageView
+                android:layout_width="@dimen/size_trailer_width"
+                android:layout_height="@dimen/size_trailer_height"
+                android:background="@color/colorPrimaryLight"
+                android:scaleType="centerInside"
+                android:src="@drawable/ic_play_trailer"/>
+
+        </android.support.v7.widget.CardView>
+    </RelativeLayout>
+</layout>
