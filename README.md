@@ -1,3 +1,7 @@
+#moviedb 
+
+Movie Db adalah Aplikasi Final Project dari Program Android Kejar Indonesia untuk kelas Intermediate.
+
 **Spesifikasi Movie Db:**
 - Project structure by feature
 - Architecture MVVM
@@ -9,7 +13,6 @@
 - Data Binding
 - REALM
 - Gson
-
 
 **Setup API KEY:**
 Update API_KEY di class Cons.java. API KEY dapat diperoleh di https://www.themoviedb.org
