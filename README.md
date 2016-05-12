@@ -1,4 +1,4 @@
-#moviedb 
+#Movie Db 
 
 Movie Db adalah Aplikasi Final Project dari Program Android Kejar Indonesia untuk kelas Intermediate.
 
@@ -19,7 +19,7 @@ Update API_KEY di class Cons.java. API KEY dapat diperoleh di https://www.themov
 `MOVIE_DB_API_KEY = "YOUR_API_KEY";`
 
 
-![Alt Text](http://i.imgur.com/XCWUZE2.png)  ![Alt Text](http://i.imgur.com/X98Jc0O.png)
+![Alt Text](http://i.imgur.com/bdxOgxZ.png)  ![Alt Text](http://i.imgur.com/632ERFs.png)
 
-![Alt Text](http://i.imgur.com/BUTmizf.png)
+![Alt Text](http://i.imgur.com/2Krs4ZK.png)
 
